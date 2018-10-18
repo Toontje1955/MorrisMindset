@@ -1407,7 +1407,7 @@ body {
   color: #ff3366;
 }
 .cid-r6zHOs1IZM {
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 60px;
   background-color: #0f7699;
 }
@@ -1493,10 +1493,13 @@ body {
 .cid-r6P0e8W7Za {
   padding-top: 105px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
 .cid-r6P0e8W7Za .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
+}
+.cid-r6P0e8W7Za B {
+  color: #ffffff;
 }
 .cid-r6P05yAAL4 {
   padding-top: 15px;
@@ -1533,6 +1536,9 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+}
+.cid-r6P05yAAL4 .mbr-text LI {
+  color: #232323;
 }
 .cid-r6R6nymgv2 {
   padding-top: 90px;
@@ -1596,6 +1602,12 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-r6R6nymgv2 .mbr-text {
+  color: #232323;
+}
+.cid-r6R6nymgv2 P {
+  color: #232323;
+}
 .cid-r6R72SAeyW {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1605,8 +1617,11 @@ body {
 .cid-r6R72SAeyW blockquote {
   color: #767676;
 }
+.cid-r6R72SAeyW P {
+  color: #232323;
+}
 .cid-r6R7BjzH7c {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1671,10 +1686,10 @@ body {
 .cid-r6zIxx1fO4 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #b2ccd2;
+  background-color: #0f7699;
 }
 .cid-r6zIxx1fO4 .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r6zIxx1fO4 .media-row {
   display: -webkit-flex;
@@ -1709,7 +1724,7 @@ body {
   background: #efefef;
 }
 .cid-r6zIxx1fO4 B {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r6R419uhT1 {
   padding-top: 90px;
@@ -1808,7 +1823,7 @@ body {
 .cid-r6PbkJ6yZL {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #55b4d4;
+  background-image: url("../../../assets/images/morrismindset.svg");
 }
 @media (max-width: 767px) {
   .cid-r6PbkJ6yZL .content {
