@@ -56,10 +56,13 @@
     "uniqCompNum": 29,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/morrismindset-2.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-512x512-128x128.png",
     "noImageResize": "",
     "publishType": "local",
-    "publishPath": "file:///Users/gebruiker/Downloads/SophosInstall"
+    "publishPath": "file:///Users/gebruiker/Downloads/SophosInstall",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
   },
   "pages": {
     "index.html": {
