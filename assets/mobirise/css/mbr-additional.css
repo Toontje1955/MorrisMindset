@@ -169,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #0027f9 !important;
-  border-color: #0027f9 !important;
+  background-color: #00bca4 !important;
+  border-color: #00bca4 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -178,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #001bad !important;
-  border-color: #001bad !important;
+  background-color: #007061 !important;
+  border-color: #007061 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #001bad !important;
-  border-color: #001bad !important;
+  background-color: #007061 !important;
+  border-color: #007061 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -333,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #001793;
-  color: #001793;
+  border-color: #00564b;
+  color: #00564b;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #0027f9;
-  border-color: #0027f9;
+  background-color: #00bca4;
+  border-color: #00bca4;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #0027f9 !important;
-  border-color: #0027f9 !important;
+  background-color: #00bca4 !important;
+  border-color: #00bca4 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -468,7 +468,7 @@ body {
   color: #55b4d4 !important;
 }
 .text-secondary {
-  color: #0027f9 !important;
+  color: #00bca4 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -494,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #001793 !important;
+  color: #00564b !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1290,7 +1290,7 @@ body {
   display: none;
 }
 .cid-r6zDo07XnU {
-  background-image: url("../../../assets/images/depositphotos-18926711-stock-photo-mindset-concept-in-word-tag-1-450x449.jpg");
+  background-image: url("../../../assets/images/photo-1496867557017-559adb93b339-1951x1300.jpg");
 }
 .cid-r6zDo07XnU .icons-media-container {
   display: -webkit-flex;
@@ -1319,19 +1319,27 @@ body {
   color: #ff3366;
 }
 .cid-r6zDo07XnU H1 {
-  color: #0027f9;
+  color: #00bca4;
+  text-align: center;
 }
 .cid-r6zDo07XnU .mbr-text,
 .cid-r6zDo07XnU .mbr-section-btn {
-  color: #0027f9;
+  color: #00bca4;
 }
 .cid-r6zHOs1IZM {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/morrismindset-2.svg");
 }
 .cid-r6zHOs1IZM .mbr-text {
   text-align: center;
+  color: #ffffff;
+}
+.cid-r6zHOs1IZM H2 {
+  color: #ffffff;
+}
+.cid-r6zHOs1IZM .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-r6LVqgB0mZ {
   padding-top: 60px;
@@ -1339,8 +1347,8 @@ body {
   background-color: #ffffff;
 }
 .cid-r6LVqgB0mZ .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #00bca4;
+  color: #00bca4;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1365,8 +1373,8 @@ body {
   background-color: #ffffff;
 }
 .cid-r6M0CmefQp .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #00bca4;
+  color: #00bca4;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1391,8 +1399,8 @@ body {
   background-color: #ffffff;
 }
 .cid-r6LXZqmvvD .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #00bca4;
+  color: #00bca4;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1409,16 +1417,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-r6P0e8W7Za {
-  padding-top: 105px;
-  padding-bottom: 15px;
-  background-color: #0f7699;
-}
-.cid-r6P0e8W7Za .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-r6P0e8W7Za B {
-  color: #ffffff;
+.cid-r7w76ymeQf {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/danielle-macinnes-222441-unsplash-1-2000x1333.jpg");
 }
 .cid-r6P05yAAL4 {
   padding-top: 15px;
@@ -1451,7 +1453,7 @@ body {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #00bca4;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -1459,16 +1461,10 @@ body {
 .cid-r6P05yAAL4 .mbr-text LI {
   color: #232323;
 }
-.cid-r6XySsm6Jn {
-  padding-top: 90px;
+.cid-r7wjHKq1te {
+  padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #0f7699;
-}
-.cid-r6XySsm6Jn .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-r6XySsm6Jn H2 {
-  color: #ffffff;
+  background-image: url("../../../assets/images/background-1-565x922.jpg");
 }
 .cid-r6XKmHBlvh {
   padding-top: 90px;
@@ -1630,16 +1626,16 @@ body {
 .cid-r6R6nymgv2 H4 {
   color: #232323;
 }
-.cid-r6XuDnej36 {
-  padding-top: 105px;
-  padding-bottom: 60px;
-  background-color: #0f7699;
+.cid-r7w9qYyy17 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/tim-graf-229428-unsplash-2000x1333.jpg");
 }
-.cid-r6XuDnej36 .mbr-section-subtitle {
-  color: #ffffff;
+.cid-r7w9qYyy17 H2 {
+  color: #00bca4;
 }
-.cid-r6XuDnej36 H2 {
-  color: #ffffff;
+.cid-r7w9qYyy17 .mbr-section-subtitle {
+  color: #00bca4;
 }
 .cid-r6XubhPbUo {
   padding-top: 30px;
@@ -1647,8 +1643,8 @@ body {
   background-color: #ffffff;
 }
 .cid-r6XubhPbUo .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #00bca4;
+  color: #00bca4;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1664,32 +1660,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-r6R7BjzH7c {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #0f7699;
-}
-.cid-r6R7BjzH7c .line {
-  background-color: #0f7699;
-  color: #0f7699;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-r6R7BjzH7c .section-text {
-  padding: 2rem 0;
-  color: #ffffff;
-}
-.cid-r6R7BjzH7c .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-r6R7BjzH7c .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-r6R7BjzH7c .section-text B {
-  color: #ffffff;
+.cid-r7wfyeOivg {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/rawpixel-1076944-unsplash-2000x1335.jpg");
 }
 .cid-r6R7te4Doq {
   padding-top: 90px;
@@ -1731,48 +1705,25 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-r6zIxx1fO4 {
+.cid-r7wdk0Y8I4 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/brigitte-tohm-329292-unsplash-3-2000x3000.jpg");
 }
-.cid-r6zIxx1fO4 .mbr-section-subtitle {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-r7wdk0Y8I4 .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-r6zIxx1fO4 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+@media (max-width: 991px) {
+  .cid-r7wdk0Y8I4 .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-r6zIxx1fO4 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-r6zIxx1fO4 .team-item .item-image img {
-  width: 100%;
-}
-.cid-r6zIxx1fO4 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-r6zIxx1fO4 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-r6zIxx1fO4 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-r6zIxx1fO4 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-r6zIxx1fO4 .team-item .item-caption {
-  background: #efefef;
-}
-.cid-r6zIxx1fO4 B {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-r7wdk0Y8I4 .mbr-text {
+    text-align: center;
+  }
 }
 .cid-r6R419uhT1 {
   padding-top: 90px;
@@ -1871,7 +1822,7 @@ body {
 .cid-r6PbkJ6yZL {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/morrismindset.svg");
+  background-image: url("../../../assets/images/miguel-bruna-503098-unsplash-6-2000x2500.jpg");
 }
 @media (max-width: 767px) {
   .cid-r6PbkJ6yZL .content {
@@ -2102,7 +2053,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #00bca4;
 }
 .cid-r6cmEVcpK1 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
